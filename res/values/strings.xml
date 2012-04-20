@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AlertsSuiteActivity!</string>
+    <string name="app_name">Alerts-suite</string>
+    <string name="add">+</string>
+    <string name="name">Name:</string>
+    <string name="note">Note</string>
+    <string name="ok">Ok</string>
+    <string name="delete">Delete</string>
+    <string name="radius">Radius</string>
+
+</resources>
